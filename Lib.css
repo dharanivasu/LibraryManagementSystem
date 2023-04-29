@@ -1,0 +1,61 @@
+body {
+    align-content: center;
+    background-image: url("http://merilynsimonds.com/books-unpacked-blog/wp-content/uploads/bookstore-slide-2MCD-superJumbo.jpg");
+    background-size: cover;
+    background-position: center center;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3E8E41;
+  }
+
+
+
+ 
+  
+  
